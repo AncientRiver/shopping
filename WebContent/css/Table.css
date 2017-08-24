@@ -1,0 +1,37 @@
+body{      
+	background: #ffffff;     
+	margin: 15; 
+	}  
+body,table,th,td,input,select,textarea{      
+	font-family: Tahoma,Verdana,Arial,Helvetica,sans-serif;     
+	font-size: 12px; 
+	}  
+table.default{      
+	border: 1px solid #3366CC;     
+	border-collapse: collapse;     
+	width: 80%; 
+	}  
+table.default td{      
+	padding: 2 5 2 5;     
+	height: 26px;     
+	text-align: center;      
+	border: 1px solid #ffffff;     
+	background-color: #f0f0f0; 
+	}  
+table.default tr.title td{     
+	font-weight: bold;     
+	text-align: center;     
+	background: #99CCFF;     
+	color: red;      
+	border: 1px solid #ffffff;     
+	white-space: nowrap;     
+	height: 26px; 
+	}  
+table.default th.item{     
+	font-weight: bold;     
+	color: #333333;     
+	text-align: center;     
+	vertical-align: top;     
+	padding: 10px;     
+	font-size: 14px; 
+	}
